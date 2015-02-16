@@ -1,0 +1,8 @@
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\bin\Debug\BeesInservicePlanner.exe.config
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\obj\Debug\BeesInservicePlanner.csprojResolveAssemblyReference.cache
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\bin\Debug\BeesInservicePlanner.exe
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\bin\Debug\BeesInservicePlanner.pdb
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\bin\Debug\SimulatedBeeColony.dll
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\bin\Debug\SimulatedBeeColony.pdb
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\obj\Debug\BeesInservicePlanner.exe
+c:\users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlanner\obj\Debug\BeesInservicePlanner.pdb

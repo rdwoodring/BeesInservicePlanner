@@ -1,0 +1,7 @@
+C:\Users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlannerTests\bin\Debug\BeesInservicePlannerTests.dll
+C:\Users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlannerTests\bin\Debug\BeesInservicePlannerTests.pdb
+C:\Users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlannerTests\bin\Debug\BeesInservicePlanner.exe
+C:\Users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlannerTests\bin\Debug\BeesInservicePlanner.pdb
+C:\Users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlannerTests\obj\Debug\BeesInservicePlannerTests.csprojResolveAssemblyReference.cache
+C:\Users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlannerTests\obj\Debug\BeesInservicePlannerTests.dll
+C:\Users\rswoody\documents\visual studio 2013\Projects\BeesInservicePlanner\BeesInservicePlannerTests\obj\Debug\BeesInservicePlannerTests.pdb
