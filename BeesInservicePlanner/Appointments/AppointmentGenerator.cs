@@ -54,6 +54,7 @@ namespace BeesInservicePlanner.AppointmentGenerator
                 UnitAppointment tempAppointment;
                 do
                 {
+                    //TODO: round this off to the nearest five minutes, please (no more 10:34 and 8:47 appts)
                     int minutesFromStart = random.Next(0, totalTimeSpan);
                     DateTime selectedDateTime = this.StartDate.AddMinutes(minutesFromStart);
                     tempAppointment = new UnitAppointment(unit, selectedDateTime);

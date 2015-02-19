@@ -17,5 +17,12 @@ namespace BeesInservicePlanner.UnitData
             this.TimeSlot = timeSlot;
             this.Locked = locked;
         }
+
+        public UnitAppointment(UnitAppointment unitAppointment)
+        {
+            this.Unit = unitAppointment.Unit;
+            this.TimeSlot = unitAppointment.TimeSlot;
+            this.Locked = unitAppointment.Locked;
+        }
     }
 }
